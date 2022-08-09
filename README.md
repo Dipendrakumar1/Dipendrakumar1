@@ -1,1 +1,4 @@
-**<h1 ><iframe src="https://giphy.com/embed/XZy2SbQTJEm7q4KeEm" width="480" height="371" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/simplysocialnm-simply-social-media-XZy2SbQTJEm7q4KeEm">via GIPHY</a></p>, I&apos;m Dipendra Yadav</h1>**
+**<h1 align="center">Hi <img src="https://giphy.com/embed/XZy2SbQTJEm7q4KeEm"
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />, I&apos;m Dipankar Das</h1>**
