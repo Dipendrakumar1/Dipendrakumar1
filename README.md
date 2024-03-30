@@ -10,7 +10,7 @@ Hii there, welcome to my github profile. Feel free to check my repos and show so
 
 I'm a FullStack developer and Problem Solver.
 
-👩‍💻 I'm currently working on MERN stack based password manager.
+👩‍💻 I'm currently working on MERN stack.
 
 🧠 I'm currently learning FullStack.
 
