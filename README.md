@@ -1,56 +1,51 @@
-<h1 align="center">Hey Dear <img src="https://iconscout.com/lottie-animation/hello-7180617" height="55px" width="55px">, I'm Dipendra Yadav</h1>
-
+<h1 align="center">Hey Dear, I'm Dipendra Yadav</h1>
 <div align='center'>
-Hii there, welcome to my github profile. Feel free to check my repos and show some love by starring my repos or consider contributing.
+Hii there, welcome to my GitHub profile. Feel free to check my repos and show some love by starring them or consider contributing.
 </div>
-
 <br/>
 
 ## 🚀 About Me
 
 I'm a FullStack developer and Problem Solver.
 
-👩‍💻 I'm currently working on MERN stack.
+- 👩‍💻 I'm currently working on the MERN stack.
+- 🧠 I'm currently learning FullStack development.
+- 📫 Reach me at dipendrayadav299@gmail.com
+- 🌐 View my portfolio [here](https://dipendraydv.netlify.app/)
 
-🧠 I'm currently learning FullStack.
-
-📫 Reach me at dipendrayadav299@gmail.com
-
-🌐 View my portfolio https://dipendraydv.netlify.app/
-
-<br />
+<br/>
 
 ## 🛠 Skills
 
 <br/>
 
-![C](https://icons8.com/icon/IYb45WnDwxjn/c)&nbsp;&nbsp;
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;&nbsp;
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;&nbsp;
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;&nbsp;
-![JavaScript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript&logoColor=f5f5f5)&nbsp;&nbsp;
-![ReactJS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;&nbsp;
-![NodeJS](https://icons8.com/icon/54087/nodejs)&nbsp;&nbsp;
-![ExpressJs](https://icons8.com/icon/kg46nzoJrmTR/express-js)&nbsp;&nbsp;
-![MongoDB](https://icons8.com/icon/74402/mongodb)&nbsp;&nbsp;
-![SQL](https://icons8.com/icon/3767/sql)&nbsp;&nbsp;
-![MySQL](https://icons8.com/icon/19672/mysql)&nbsp;&nbsp;
-![GIT](https://icons8.com/icon/20906/git)&nbsp;&nbsp;
-![GitHub](https://icons8.com/icon/12599/github)&nbsp;&nbsp;
-![AI/ML](https://icons8.com/icon/61864/artificial-intelligence)&nbsp;&nbsp;
-![Scikit-Learn](https://icons8.com/icon/jgzNZgMUrRU9/algorithm)&nbsp;&nbsp;
-![Pandas](https://icons8.com/icon/xSkewUSqtErH/pandas)&nbsp;&nbsp;
-![Numpy](https://icons8.com/icon/aR9CXyMagKIS/numpy);
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;&nbsp;
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)&nbsp;&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;&nbsp;
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;&nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;&nbsp;
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;&nbsp;
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)&nbsp;&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;&nbsp;
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)&nbsp;&nbsp;
+![AI/ML](https://img.shields.io/badge/AI/ML-000000?style=for-the-badge&logo=ai&logoColor=white)&nbsp;&nbsp;
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)&nbsp;&nbsp;
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;&nbsp;
+![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-
-<br />
+<br/>
 
 ## 🔗 Links
 
 <br/>
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://dipendraydv.netlify.app/)&nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://dipendraydv.netlify.app/)&nbsp;&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dipendrayadav299@gmail.com)&nbsp;&nbsp;
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/dipendra-kumar-yadav-37b663216)&nbsp;&nbsp;
-[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/dipendra_123)&nbsp;&nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/dipendra1234/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipendra-kumar-yadav-37b663216)&nbsp;&nbsp;
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/dipendra_123)&nbsp;&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=#d16c06)](https://leetcode.com/dipendra1234/)
+
