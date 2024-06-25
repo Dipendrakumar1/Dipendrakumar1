@@ -1,4 +1,4 @@
-<h1 align="center">Hey Dear <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">, I'm Dipendra Yadav</h1>
+<h1 align="center">Hey Dear <img src="https://iconscout.com/lottie-animation/hello-7180617" height="55px" width="55px">, I'm Dipendra Yadav</h1>
 
 <div align='center'>
 Hii there, welcome to my github profile. Feel free to check my repos and show some love by starring my repos or consider contributing.
