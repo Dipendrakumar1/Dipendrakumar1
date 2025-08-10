@@ -8,7 +8,6 @@ Hii there, welcome to my GitHub profile. Feel free to check my repos and show so
 
 I'm a FullStack developer and Problem Solver.
 
-- 👩‍💻 I'm currently working on the MERN stack.
 - 🧠 I'm currently learning FullStack development.
 - 📫 Reach me at dipendrayadav299@gmail.com
 - 🌐 View my portfolio [here](https://dipendraydv.netlify.app/)
