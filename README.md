@@ -1,6 +1,6 @@
 <h1 align="center">Hey Dear, I'm Dipendra Yadav</h1>
 <div align='center'>
-Hii there, welcome to my GitHub profile. Feel free to check my repos and show some love by starring them or consider contributing.
+Hi there! 👋 Welcome to my GitHub profile. Explore my repositories, and if you find something useful, feel free to star ⭐ or contribute.
 </div>
 <br/>
 
